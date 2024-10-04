@@ -1,3 +1,6 @@
+
+> ©️Siyuan. Learning notes of Professor Andrew Ng.'s Machine learning specialization.
+
 # 7 Principal Component Analysis
 
 ## 7.1 Reducing the number of features
