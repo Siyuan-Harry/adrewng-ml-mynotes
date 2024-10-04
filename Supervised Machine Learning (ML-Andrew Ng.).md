@@ -9,6 +9,8 @@ Preface:
 - 由思远整理
 - B站：何思远方Siyuan
 
+> ©️Siyuan . Learning notes of Professor Andrew Ng.'s Machine learning specialization.
+
 ---
 
 # 2 Machine Learning Overview
