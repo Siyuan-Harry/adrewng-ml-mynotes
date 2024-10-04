@@ -1,4 +1,5 @@
 
+> ©️Siyuan. Learning notes of Professor Andrew Ng.'s Machine learning specialization.
 
 # 1 Welcome to the course
 
